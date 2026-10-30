@@ -1,0 +1,8 @@
+__pycache__/
+last_bite_debug.png
+fishing.log*
+.build-tools/
+.build-cache/
+build/
+dist/
+*.spec
